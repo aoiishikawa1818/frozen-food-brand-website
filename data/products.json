@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "鶏の照り焼きプレート",
+    "price": 680,
+    "category": "主菜",
+    "time": "10分",
+    "allergens": "小麦・卵",
+    "kcal": 420,
+    "isFeatured": true
+  },
+  {
+    "id": 2,
+    "name": "北海道産サーモンのムニエル",
+    "price": 880,
+    "category": "主菜",
+    "time": "12分",
+    "allergens": "乳・小麦",
+    "kcal": 460,
+    "isFeatured": true
+  },
+  {
+    "id": 3,
+    "name": "牛すじ煮込み",
+    "price": 780,
+    "category": "主菜",
+    "time": "8分",
+    "allergens": "小麦",
+    "kcal": 510,
+    "isFeatured": true
+  },
+  {
+    "id": 4,
+    "name": "彩り野菜の温サラダ",
+    "price": 540,
+    "category": "副菜",
+    "time": "6分",
+    "allergens": "乳",
+    "kcal": 210,
+    "isFeatured": false
+  },
+  {
+    "id": 5,
+    "name": "だし香るひじき煮",
+    "price": 420,
+    "category": "副菜",
+    "time": "5分",
+    "allergens": "小麦",
+    "kcal": 160,
+    "isFeatured": false
+  },
+  {
+    "id": 6,
+    "name": "ほくほく根菜きんぴら",
+    "price": 460,
+    "category": "副菜",
+    "time": "5分",
+    "allergens": "ごま",
+    "kcal": 190,
+    "isFeatured": false
+  },
+  {
+    "id": 7,
+    "name": "生姜香る鶏塩うどん",
+    "price": 720,
+    "category": "麺・ごはん",
+    "time": "9分",
+    "allergens": "小麦",
+    "kcal": 430,
+    "isFeatured": false
+  },
+  {
+    "id": 8,
+    "name": "海鮮あんかけ焼きそば",
+    "price": 860,
+    "category": "麺・ごはん",
+    "time": "11分",
+    "allergens": "えび・小麦",
+    "kcal": 520,
+    "isFeatured": false
+  },
+  {
+    "id": 9,
+    "name": "雑穀入り和風リゾット",
+    "price": 640,
+    "category": "麺・ごはん",
+    "time": "8分",
+    "allergens": "乳",
+    "kcal": 390,
+    "isFeatured": false
+  },
+  {
+    "id": 10,
+    "name": "濃厚トマトポタージュ",
+    "price": 480,
+    "category": "スープ",
+    "time": "4分",
+    "allergens": "乳",
+    "kcal": 180,
+    "isFeatured": false
+  },
+  {
+    "id": 11,
+    "name": "しょうが香る豚汁",
+    "price": 520,
+    "category": "スープ",
+    "time": "6分",
+    "allergens": "大豆",
+    "kcal": 230,
+    "isFeatured": false
+  },
+  {
+    "id": 12,
+    "name": "彩り豆のミネストローネ",
+    "price": 500,
+    "category": "スープ",
+    "time": "5分",
+    "allergens": "乳",
+    "kcal": 200,
+    "isFeatured": false
+  }
+]
