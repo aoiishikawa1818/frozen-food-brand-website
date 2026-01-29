@@ -15,15 +15,11 @@ const renderProductCards = (container, products, options = {}) => {
     .map(
       (product) => `
         <article class="product-card reveal">
-          <img src="assets/placeholder-product.svg" alt="${product.name}のイメージ" width="320" height="220" />
+          <img src="${product.image || 'assets/placeholder-product.svg'}" alt="${product.name}のイメージ" width="320" height="220" />
           <div>
             <div class="badge-group">
               <span class="badge">${product.category}</span>
-              ${
-                showFeaturedBadge && product.isFeatured
-                  ? '<span class="badge badge--featured">人気</span>'
-                  : ''
-              }
+              ${product.isFeatured ? '<span class="badge badge--featured">人気</span>' : ''}
             </div>
             <h3>${product.name}</h3>
           </div>

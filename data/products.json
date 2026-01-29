@@ -7,6 +7,7 @@
     "time": "10分",
     "allergens": "小麦・卵",
     "kcal": 420,
+    "image": "assets/foods/dish-chicken-teriyaki-plate.png",
     "isFeatured": true
   },
   {
@@ -17,6 +18,7 @@
     "time": "12分",
     "allergens": "乳・小麦",
     "kcal": 460,
+    "image": "assets/foods/dish-hokkaido-salmon-meuniere.png",
     "isFeatured": true
   },
   {
@@ -27,6 +29,7 @@
     "time": "8分",
     "allergens": "小麦",
     "kcal": 510,
+    "image": "assets/foods/dish-gyusuji-nikomi.png",
     "isFeatured": true
   },
   {
@@ -37,6 +40,7 @@
     "time": "6分",
     "allergens": "乳",
     "kcal": 210,
+    "image": "assets/foods/side-warm-vegetable-salad.png",
     "isFeatured": false
   },
   {
@@ -47,6 +51,7 @@
     "time": "5分",
     "allergens": "小麦",
     "kcal": 160,
+    "image": "assets/foods/side-hijiki-nimono.png",
     "isFeatured": false
   },
   {
@@ -57,6 +62,7 @@
     "time": "5分",
     "allergens": "ごま",
     "kcal": 190,
+    "image": "assets/foods/side-root-vegetable-kinpira.png",
     "isFeatured": false
   },
   {
@@ -67,6 +73,7 @@
     "time": "9分",
     "allergens": "小麦",
     "kcal": 430,
+    "image": "assets/foods/dish-ginger-chicken-shio-udon.png",
     "isFeatured": false
   },
   {
@@ -77,6 +84,7 @@
     "time": "11分",
     "allergens": "えび・小麦",
     "kcal": 520,
+    "image": "assets/foods/dish-seafood-ankake-yakisoba.png",
     "isFeatured": false
   },
   {
@@ -87,6 +95,7 @@
     "time": "8分",
     "allergens": "乳",
     "kcal": 390,
+    "image": "assets/foods/dish-japanese-multigrain-risotto.png",
     "isFeatured": false
   },
   {
@@ -97,6 +106,7 @@
     "time": "4分",
     "allergens": "乳",
     "kcal": 180,
+    "image": "assets/foods/soup-rich-tomato-potage.png",
     "isFeatured": false
   },
   {
@@ -107,6 +117,7 @@
     "time": "6分",
     "allergens": "大豆",
     "kcal": 230,
+    "image": "assets/foods/soup-ginger-tonjiru.png",
     "isFeatured": false
   },
   {
@@ -117,6 +128,7 @@
     "time": "5分",
     "allergens": "乳",
     "kcal": 200,
+    "image": "assets/foods/soup-colorful-beans-minestrone.png",
     "isFeatured": false
   }
 ]
