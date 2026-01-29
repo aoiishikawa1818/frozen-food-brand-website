@@ -9,7 +9,7 @@
 
 ## Screenshots（画面）
 | TOP | 商品一覧 | お問い合わせ | スマホ表示 |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | ![TOP](assets/screenshots/top.png) | ![商品一覧](assets/screenshots/products.png) | ![お問い合わせ](assets/screenshots/contact.png) | ![スマホ表示](assets/screenshots/sp.png) |
 
 ---
@@ -28,6 +28,8 @@
 ---
 
 ## Structure
+```txt
+
 ├── index.html
 ├── products.html
 ├── contact.html
@@ -39,12 +41,15 @@
 └── foods
 └── *.png
 
+```
+
 ## How to run (Local)
 > 静的サイトのため、ローカルサーバーで起動すると確認しやすいです。
 例：Python
 ```bash
 python3 -m http.server 8000
 ```
+
 ブラウザで開く：http://localhost:8000/
 
 ---
